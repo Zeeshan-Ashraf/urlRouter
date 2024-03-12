@@ -30,3 +30,7 @@ get(/home)  --returns--> home()
 also supports wild card
 
 `get(/home/*/profile) --returns--> [ profile(1), profile(2) ] `
+
+# LLD design
+
+`https://drive.google.com/file/d/1yAJb5wJaE2yyJfKWKTSGc6U8FlhfrwLx/view?usp=sharing`
